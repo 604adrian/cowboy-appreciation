@@ -7,31 +7,43 @@
     <style>
       /* GLOBAL STYLE */
       a {
-        color: red;
+        color: #e172f7;
+      }
+      
+      /* WHY WOULD ANYONE DO THIS */
+      / * html {background: red} * /
+
+
+      div {
+        border: 1px #38b56a;
       }
 
       /* SOCIAL STYLES */
       .social-link {
-        color: blue;
+        background: rgba(150, 150, 150, 0.5);
+        color: rgba(225, 114, 247, 0.8);
       }
 
       /* BIO STYLES */
       .bio-box {
-        border: 1px solid black;
+        border: 10px solid #02030a;
+        width: 200px;
       }
-      {
       .bio-box a {
-        color: green;
+        color: #38b56a;
+        opacity: 0.8;
       }
+      
     </style>
   </head>
+
   <body>
-    <h1>I'm an h1</h1>
+    <h1 class="social-link">I'm an h1</h1>
     <ul>
-      <li>
+      <li class="social-link">
         <a href="https://example.com/">Link</a>
       </li>
-      <li>
+      <li class="social-link">
         <a href="https://example.com/">Link</a>
       </li>
       <li>
@@ -63,18 +75,21 @@
 
     <div class="bio-box">
       <h3>Lee Donahoe</h3>
-      <a style="social-link" href="https://twitter.com/leedonahoe">here</a>
-      <p>
+      <a class="social-link" href="https://twitter.com/leedonahoe">here</a>
+      <div class="bio-copy">
+        <p>
         When he's not literally swimming with sharks or hunting powder stashes on
         his snowboard, you can find Lee in front of his computer designing
         interfaces, doing front-end development, or writing some of the
         interface-related Learn Enough tutorials.
       </p>
     </div>
+    </div>
+
     <div class="bio-box">
       <h3>Nick Merwin</h3>
-      <a href="https://twitter.com/nickmerwin">here</a>
-     </div class="bio-copy">
+      <a class="social-link" href="https://twitter.com/nickmerwin">here</a>
+     <div class="bio-copy">
 
       <p>
         You may have seen him shredding guitar live with Capital Cities on Jimmy

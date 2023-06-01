@@ -6,39 +6,70 @@
 
     <style>
       /* GLOBAL STYLE */
+      html, body {
+        font-size: 18px;
+        margin: 0;
+        padding: 0;
+      }
+      h1 {
+        font-size: 7vw;
+        margin-top: 0; 
+      }
       a {
         color: #e172f7;
       }
-      
-      /* WHY WOULD ANYONE DO THIS */
-      / * html {background: red} * /
-
+      h2 {
+        font-size: 2em;
+      }
 
       div {
         border: 1px #38b56a;
       }
 
-      /* SOCIAL STYLES */
-      .social-link {
-        background: rgba(150, 150, 150, 0.5);
-        color: rgba(225, 114, 247, 0.8);
+      /* HEROS */
+      .full-hero {
+        background-color: #c7dbfc;
+        height: 50vh;
       }
 
+      /* SOCIAL STYLES */
+      .social-link {
+        color: rgba(225, 114, 247, 0.8);
+      }
       /* BIO STYLES */
+      .bio-wrapper{
+        font-size: 24px;
+      }
       .bio-box {
-        border: 10px solid #02030a;
-        width: 200px;
+        border: 1px solid #000a;
+        margin: 10%;
+        width: 50%;
+        font-size: 1rem;
+        padding: 1rem;
+      }
+      .bio-box h3 {
+        font-size: 1em;
+        padding: 1em; 
+      }
+      .bio-box h3 {
+        font-size: 1.5rem
+      }
+      .bio-copy {
+        font-size: 1em;
       }
       .bio-box a {
         color: #38b56a;
         opacity: 0.8;
+        font: 150;
       }
       
     </style>
   </head>
 
   <body>
-    <h1 class="social-link">I'm an h1</h1>
+    
+    <div class="full-hero">
+    <h1>I'm an h1</h1>
     <ul>
       <li class="social-link">
         <a href="https://example.com/">Link</a>
@@ -49,7 +80,9 @@
       <li>
         <a href="https://example.com/">Link</a>
       </li>
+    </div>
     </ul>
+
     <h2>I'm an h2</h2>
     <div class="bio-box">
         <h3>Michael Hartl</h3>

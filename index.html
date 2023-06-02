@@ -35,34 +35,38 @@
       
 
       /* SOCIAL STYLES */
+     .social-link {
+        box-sizing: border-box;
+        padding-top: 0.85em;
+        background: rgba(150, 150, 150, 0.5);
+        color: #fff;
+        font-family: helvetica, arial, sans;
+        font-weight: bold;
+        font-size: 1em;
+        height: 2.5em;
+        line-height: 1;
+        width: 2.5em;
+        text-align: center;
+        text-decoration: none;
+        vertical-align: middle;
+        border-radius: 99px;
+        display: inline-block;
+        margin: 36px;
+        height: 36px;
+        }
       .social-list {
         list-style: none;
-        padding: 0;
-        text-align: left;
+        text-align: center;
         }
       .social-list li {
         display: inline-block;
+        margin: 0 0.5em;
         }
-      .social-link {
-        color: rgba(225, 114, 247, 0.8);
-        background-color: #c7dbfc;
-        display: inline-block;
-        margin: auto;
-        height: 46px;
-        }
-
+      
 
       /* BIO STYLES */
-      .bio-wrapper{
-        font-size: 24px;
-        max-width: 960px;
-        overflow: scroll;
-        margin: 0px auto 4em auto;
-        }
-      .bio-box {
+       .bio-box {
         border: 1px solid black;
-        border-color: black black red;
-        border-color: black;
         box-sizing: border-box;
         float: left; 
         font-size: 1rem;
@@ -82,12 +86,21 @@
         margin: -40px 0 1em;
         text-align: center;
         }
+
       .bio-copy {
-        font-size: 1em
+        font-size: 1em;
         }
       .bio-copy a {
         color: red; 
         padding: 20px;
+        }
+
+      .bio-wrapper{
+        overflow: scroll;
+        font-size: 1em;
+        max-width: 960px;
+        overflow: scroll;
+        margin: 0px auto 4em auto;
         }
       .bio-wrapper:after {
         visibility: hidden;
@@ -98,36 +111,35 @@
         height: 0;
         } 
 
-    </style>
-  </head>
+      </style>
+      </head>
 
   <body>
     
     <div class="full-hero">
       <h1>I'm an h1</h1>
-      <ul class="social-list">
-      <li>
-        <a class="social-list" href="https://example.com/">Link1</a>
-      </li>
-      <li class="social-list">
-        <a class="social-link" href="https://example.com/">Link2</a>
-      </li>
-      <li>
-        <a class="social-list" href="https://example.com/">Link3</a>
-      </li>
-      </ul>
-    </div>
+        <ul class="social-list">
+          <li>
+            <a class="social-link" href="https://example.com/">Fb</a>
+            </li>
+          <li> 
+            <a class="social-link" href="https://example.com/">Tw</a>
+            </li>
+          <li>
+            <a class="social-link" href="https://example.com/">Gh</a>
+            </li>
+            </ul /* closing tag for .social-list */>
+            </div /* closing tag for .full-hero */>
 
     <h2>I'm an h2</h2>
 
-    <div class="bio-wrapper">
     <div class="bio-box">
         <img src="https://placekitten.com/200/300">
         <h3>Michael Hartl</h3>
         <a class="social-link" href="https://twitter.com/mhartl">here</a>
-      <div class="bio-copy">
-      <div class="text-box-sizing">
-      <p>
+    <div class="bio-copy">
+    <div class="text-box-sizing">
+        <p>
         Known for his dazzling charm, rapier wit, and unrivaled humility,
         Michael is the creator of the
         <a href="https://www.railstutorial.org/">Ruby on Rails
@@ -139,13 +151,11 @@
         <a href="http://tauday.com/tau-manifesto"><em>The Tau
         Manifesto</em></a>, but rumors that he's secretly a supervillain
         are slightly exaggerated.
-      </p>
-    </div  /* closing tag for bio-box */ >
-    </div /* closing tag for bio-copy */ >
-    </div /* closing tag for bio-wrapper */ >
+        </p>
+      </div  /* closing tag for bio-box */>
+      </div /* closing tag for bio-copy */ >
+      </div /* closing tag for text-box-sizing */ >
 
-
-    <div class="bio-wrapper">
     <div class="bio-box">
         <img src="https://placekitten.com/200/300">
         <h3>Lee Donahoe</h3>
@@ -157,12 +167,10 @@
         interfaces, doing front-end development, or writing some of the
         interface-related Learn Enough tutorials.
        </p>
-    </div /* closing tag for bio-box */ >
-    </div /* closing tag for bio-copy */>
-    </div /* closing tag for bio-wrapper */>
+      </div /* closing tag for bio-box */ >
+      </div /* closing tag for bio-copy */>
     
 
-    <div class="bio-wrapper">
     <div class="bio-box">
       <img src="https://placekitten.com/200/300">
       <h3>Nick Merwin</h3>
@@ -176,15 +184,19 @@
       </p>
     </div /* closing tag for bio-box */>
     </div /* closing tag for bio-copy */>
-    </div /* closing tag for bio-wrapper */ 
 
-    <div class="bio-wrapper">
     <div class="bio-box">
       <img src="https://placekitten.com/200/300">
       <h3>??</h3>
       <p>
       </p>
    </div /* closing tag for bio-box */ >
-   </div /* closing tag for bio-wrapper */>
+    
+   <div class="bio-wrapper">
+      <p>
+    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam euismod fringilla ligula, ac dapibus ligula finibus id. Sed dapibus convallis diam, sed pretium lacus viverra in. Nunc nec malesuada velit. Quisque ullamcorper, neque eu commodo ultricies, eros dui facilisis arcu, at ultricies mi purus ac nunc. Nulla pellentesque, nulla eget vestibulum eleifend, risus nisi aliquam tortor, eu feugiat libero nulla eget ante. Fusce bibendum diam non massa consequat, ac malesuada elit viverra. Aliquam venenatis sagittis dui, non tincidunt enim lobortis et. Sed et felis mi. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Mauris scelerisque pulvinar mi sed suscipit. Sed semper dolor sit amet elit laoreet congue. Mauris efficitur justo non congue porttitor
+      </p>
+   </div>
+
   </body>
 </html>

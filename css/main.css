@@ -15,6 +15,10 @@ summary, time, mark, audio, video {
   font: inherit;
   vertical-align: baseline;
 }
+
+/* MOBILE FRIENDLY RESULTS
+
+
 /* HTML5 display-role reset for older browsers */
 article, aside, details, figcaption, figure,
 footer, header, hgroup, menu, nav, section {
@@ -111,6 +115,7 @@ a {
 .bio-box h3 {
   color: #fff;
   font-size: 1.5em;
+  font-weight: bold;
   margin: -40px 0 1em;
   text-align: center;
 }
@@ -124,4 +129,5 @@ a {
 .bio-copy a {
   color: green;
 }
+
 

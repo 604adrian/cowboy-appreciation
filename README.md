@@ -7,7 +7,7 @@ If you answered yes to that question then this website is the website for you! W
 The website is currently looking for a mascot. We need someone to represent cowboy-kind in a non-sexual way. Their duties include but are not limited to:
 - Posing as a cowboy while wearing a turtleneck
 - Making promotional videos discussing what it means to be a cowboy (to avoid sending the wrong message, these videos will be shot in a church)
-- Public outreach campaigns to help cowboys remember to stay hydrated (the Wild West is a dessert and dehydration is a serious issue)
+- Public outreach campaigns to help cowboys remember to stay hydrated (the Wild West is a desert and dehydration is a serious issue)
 - Goodwill towards man
 If you feel up for the challange, and you are capable of meeting the above requirments, please submit your audiiton in the 'casting' page of the website.
 

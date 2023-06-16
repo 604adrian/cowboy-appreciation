@@ -4,7 +4,7 @@ Have you ever thought to yourself: "darn, i really wish somebody here would appr
 If you answered yes to that question then this website is the website for you! Welcome to cowboy appreciation! A website devoted to the nonsexual appreciation of cowboys! Yeehaw!
 
 ## Casting call...
-The website is currently looking for a mascot. We need someone to represent cowboy kind in a non-sexual way. Their duties include but are not limited to:
+The website is currently looking for a mascot. We need someone to represent cowboy-kind in a non-sexual way. Their duties include but are not limited to:
 - Posing as a cowboy while wearing a turtleneck
 - Making promotional videos discussing what it means to be a cowboy (to avoid sending the wrong message, these videos will be shot in a church)
 - Public outreach campaigns to help cowboys remember to stay hydrated (the Wild West is a dessert and dehydration is a serious issue)

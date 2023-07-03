@@ -17,6 +17,29 @@ summary, time, mark, audio, video {
 }
 
 
+/* Video display */
+body, html: {
+  height: 100%;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+#cowboy_movie {
+  position: fixed;
+  right: 0;
+  bottom: 0;
+  min-width: 100%;
+  min-height: 100%;
+  z-index: -1;
+  transform: translate(-50%, -50%);
+  overflow: hidden;
+  object-flow: cover;
+}
+
+
 /* HTML5 display-role reset for older browsers */
 article, aside, details, figcaption, figure,
 footer, header, hgroup, menu, nav, section {

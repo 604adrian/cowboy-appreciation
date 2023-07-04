@@ -6,6 +6,15 @@
   background-color: white;  
 }
 
+.shine {
+  color: rgba(0, 0, 0, 0.8);
+  opacity: 0.6;
+}
+
+footer p {
+  text-align: center;
+}
+
 @media only screen and (min-width: 600px) {
   #heading {
     font-size: 10px;
@@ -20,6 +29,7 @@
     text-align: center;
     font-size: 6em;
     z-index: 2;
+    color: black;
   }
   #heading3 {
     font-size: 10px;
@@ -29,6 +39,7 @@
     text-align: center;
     font-size: 6em;
     z-index: 2;
+    color: black;
   }
   .backdrop {
     background-size: cover;
@@ -44,11 +55,6 @@
     box-sizing: border-box;
     z-index: -1;
   } 
-  .shine {
-    color: rgba(0, 0, 0, 0.8);
-    opacity: 0.8;
-    opacity: 0.6;
-  }
   #johnny {
     background-size: cover;
     background-image: url('images/cash.jpg');
@@ -115,15 +121,15 @@
     overflow-x: hidden;
     overflow-y: scroll;
   }
-
 }
 
+
+/* for mobile viewing */
 @media only screen and (max-width: 600px) {
    .link-box p {
       font-size: 0.75em; 
   }
-  #heading {
-    font-size: 2.3em;
-    margin-bottom: 10px;
+
+  }
 }
 

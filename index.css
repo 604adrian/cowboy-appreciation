@@ -1,0 +1,9 @@
+.main-link a:hover {
+  background-color: white;
+}
+
+.link-box:hover, .link-box:active, .link-box:focus {
+  background-color: white;  
+}
+
+

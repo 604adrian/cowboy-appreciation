@@ -223,6 +223,7 @@ a img {
   .full-hero {
     background-size: cover;
     margin: auto;
+    background-repeat: repeat-y;
     background-image: url("images/cowboy_background.jpeg");
     background-position: right;
     background-repeat: no-repeat;
@@ -283,7 +284,8 @@ a img {
     background-repeat: no-repeat;
     background-attachment: fixed;
     height: 40vh;
-    width: 100%;
+    width: 80%;
+    max-width: 1000px;
     margin-left: auto;
     margin-right: auto;
     padding: 0;

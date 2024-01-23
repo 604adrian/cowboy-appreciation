@@ -3,7 +3,13 @@ Have you ever thought to yourself: "darn, i really wish somebody here would appr
 
 If you answered yes to that question then this website is the website for you! Welcome to cowboy appreciation! A website devoted to the nonsexual appreciation of cowboys! Yeehaw!
 
-## Casting call...
+## Visit the website
+Without further ado, here is the website (the image[^1] below is a link):
+[![the coywboy of our times](images/cash.jpg)](https://604adrian.github.io/cowboy-appreciation/)
+
+(Again, the above image is a link to the website, in case that wasn't clear)
+
+# Casting call...
 The website is currently looking for a mascot. We need someone to represent cowboy-kind in a non-sexual way. Their duties include but are not limited to:
 - Posing as a cowboy while wearing a turtleneck
 - Making promotional videos discussing what it means to be a cowboy (to avoid sending the wrong message, these videos will be shot in a church)
@@ -12,15 +18,7 @@ The website is currently looking for a mascot. We need someone to represent cowb
 
 If you feel up for the challange, and you are capable of meeting the above requirments, please submit your auditon in the 'casting' page of the website.
 
-## Visit the actual website
-Okay, without further ado, here is the website (the image[^1] below is a link):
-[![the coywboy of our times](images/cash.jpg)](https://604adrian.github.io/cowboy-appreciation/)[newtab]
-
-(Again, the above image is a link to the website, in case that wasn't clear)
-
-
-
-## Credits
+# Credits
 The footage on the landing page is taken from _[Cattle Stampede](https://archive.org/details/cattle-stampede-1943-colorized)_ 1943 (colorized) and _[Man of the Frontier](https://archive.org/details/ManOfTheFrontier19361080p)_ (1936).
 
 The images displayed on the "don't make things weird" page are, in order:

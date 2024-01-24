@@ -7,7 +7,7 @@ If you answered yes to that question then this website is the website for you! W
 
 ## Visit the website
 Without further ado, here is the website (the image[^1] below is a link):
-[![the coywboy of our times](images/cash.jpg)](https://604adrian.github.io/cowboy-appreciation/)
+[![the coywboy of our times](./src/media/cash.jpg)](https://604adrian.github.io/cowboy-appreciation/)
 
 (Again, the above image is a link to the website, in case that wasn't clear)
 

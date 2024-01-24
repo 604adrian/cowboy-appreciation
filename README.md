@@ -25,10 +25,10 @@ The footage on the landing page is taken from _[Cattle Stampede](https://archive
 
 The images displayed on the "don't make things weird" page are, in order:
 
-- An image of an unknown cowboy from _Library of Congress_, Public domain, via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:A_cowboy-LCCN2008678055.jpg)[newtab]
-- A picture of Johnny Cash from _CBS Television_, Public Domain, via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Johnny_Cash_1977.jpg)[newtab]
-- A picture of _John C. H. Grabill_, Public Domain, via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Grabill_-_The_Cow_Boy-edit.jpg)[newtab]
-- A picture of cowboys from _SMU Central University Libraries_, Public domain, via [Wikimedia Commons](https://upload.wikimedia.org/wikipedia/commons/f/f7/Cowboys_on_horseback_with_cattle_%2812178895856%29.jpg)[newtab]
+- An image of an unknown cowboy from _Library of Congress_, Public domain, via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:A_cowboy-LCCN2008678055.jpg)
+- A picture of Johnny Cash from _CBS Television_, Public Domain, via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Johnny_Cash_1977.jpg)
+- A picture of _John C. H. Grabill_, Public Domain, via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Grabill_-_The_Cow_Boy-edit.jpg)
+- A picture of cowboys from _SMU Central University Libraries_, Public domain, via [Wikimedia Commons](https://upload.wikimedia.org/wikipedia/commons/f/f7/Cowboys_on_horseback_with_cattle_%2812178895856%29.jpg)
 - A picture of _George Fletcher_, Public domain, via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:George_Pendleton_Pendleton_Round_Up_Rodeo.jpg)
 
 The form for the casting call was made using Google sheets.

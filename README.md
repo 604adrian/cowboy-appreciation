@@ -1,3 +1,5 @@
+<em>When I first started learning to program, making this website was one of the first things I did. Since I was such a noob, the website was a total mess. Since then, I have upped my skills. So, because I still believe in this website's mission, I've decided to come back and attempt to fix things up. I've had some success, but there is only so much you can do to repair a house that's built on a weak foundation (in other words: theres only so much you can do to fix a website written in raw HTML). Either way, I hope anyone reading this will now find that the code in this repo is at least tolerable (and hopefully get a chunkle out of the website's content, too).</em>
+
 # Time to appreciate cowboys
 Have you ever thought to yourself: "darn, i really wish somebody here would appreciate cowboys without things getting all weird and sexual"?
 
@@ -32,4 +34,4 @@ The images displayed on the "don't make things weird" page are, in order:
 The form for the casting call was made using Google sheets.
 
 
-[^1]: Johnny Cash, from CBS Television, Public Domain, via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Johnny_Cash_1977.jpg)[newtab]
+[^1]: Johnny Cash, from CBS Television, Public Domain, via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Johnny_Cash_1977.jpg)
